@@ -4,3 +4,5 @@ I have somehow managed to link git to my coding folder by copying commands that 
 and then installed github desktop which just makes this task much easier
 
 Right now, I am learning to work with files. Maybe tomorrow I will learn more about github and git
+
+Just finished the to do list program with file manipulations
